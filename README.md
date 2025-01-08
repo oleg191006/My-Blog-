@@ -1,5 +1,7 @@
-A project in which you can create, update, and delete posts.
+A project in which you can create, update, and delete posts. 
+
 To launch the project you need:    
+
 1. Сlone the repository and go to the project folder
 
        git clone https://github.com/oleg191006/My-Blog-.git
